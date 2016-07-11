@@ -1,0 +1,328 @@
+body {
+  background: #80a8cc; }
+
+#header {
+  background: #fcf9f4;
+  height: 80px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-shadow: 0px 1px 3px rgba(34, 25, 25, 0.2); }
+
+#flatnav {
+  width: 1400px; }
+
+#flatnav ul {
+  list-style: none outside none;
+  line-height: 80px;
+  padding-left: 50px; }
+
+#logo {
+  height: 80px; }
+
+#flatnav ul li {
+  float: left;
+  padding: 0px 10px; }
+
+.seperator {
+  height: 80px; }
+
+.navigation {
+  font-size: 30px;
+  color: #8d8d95;
+  font-family: 'Open Sans Condensed', sans-serif; }
+
+#donateButton {
+  font-family: sans-serif;
+  height: 50px;
+  width: 200px;
+  margin-top: 10px;
+  font-size: 22px;
+  background: #fcf9f4;
+  border-radius: 10px;
+  border-style: solid;
+  font-weight: 400; }
+
+#main {
+  margin-left: 30px;
+  margin-right: 30px;
+  box-shadow: 0px 1px 3px rgba(34, 25, 25, 0.2); }
+
+#clientTypeContent {
+  background: url("images/background.jpg") no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  height: 600px; }
+
+#clientTypeContent #title {
+  font-size: 38px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 1000px;
+  height: 100px;
+  color: #fcf9f4;
+  padding-top: 200px;
+  font-family: 'Julius Sans One', sans-serif; }
+
+#clientTypeContent #clientButtons {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 100px; }
+
+#clientTypeContent #clientButtons ul {
+  list-style: none outside none; }
+
+#clientTypeContent #clientButtons ul li {
+  float: left;
+  padding-right: 50px; }
+
+.crystal {
+  font-size: 24px;
+  height: 80px;
+  width: 300px;
+  border-radius: 10px;
+  color: #fcf9f4;
+  background-color: transparent;
+  border-style: solid;
+  margin-left: 150px;
+  font-family: 'Julius Sans One', sans-serif; }
+
+.middleCrystal {
+  font-size: 24px;
+  height: 80px;
+  width: 300px;
+  border-radius: 10px;
+  color: #fcf9f4;
+  filter: alpha(opacity=70);
+  opacity: 0.7;
+  background: #9caab3;
+  border-style: None;
+  font-family: 'Julius Sans One', sans-serif; }
+
+#missionZone {
+  background: #fcf9f4;
+  height: 600px;
+  text-align: center; }
+
+#missionZone #missionTitle {
+  font-size: 60px;
+  color: #4d4e4f;
+  margin-left: auto;
+  margin-right: auto;
+  width: 120px;
+  margin-bottom: 60px;
+  padding-top: 100px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 400; }
+
+#missionZone #missionContent {
+  font-size: 36px;
+  color: #636471;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  margin-bottom: 60px;
+  font-family: "Open Sans Condensed"; }
+
+#missionZone #missionBtn button {
+  font-size: 24px;
+  color: #636471;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 80px;
+  background-color: #ffcd62;
+  border-style: solid;
+  border-radius: 10px;
+  font-weight: 400; }
+
+#studentsZone {
+  background: #91d0b1;
+  height: 600px;
+  text-align: center; }
+
+#studentsZone #studentsTable tr td {
+  text-align: left; }
+
+#studentsLogoDiv {
+  width: 700px;
+  height: 600px;
+  text-align: center; }
+
+#students_logo {
+  height: 400px;
+  width: 400px;
+  padding-top: 100px;
+  padding-bottom: auto; }
+
+#studentsTitle {
+  font-size: 60px;
+  color: #fcf9f4;
+  padding-bottom: 50px;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 400;
+  margin-right: 30px; }
+
+#studentsDesc {
+  font-size: 30px;
+  color: #fcf9f4;
+  padding-bottom: 50px;
+  font-family: 'Dosis', sans-serif;
+  margin-right: 30px; }
+
+#studentsBtn {
+  width: 350px;
+  height: 80px;
+  font-size: 32px;
+  color: #fcf9f4;
+  border: None;
+  border-radius: 10px;
+  background-color: #7cb69a;
+  font-family: 'Julius Sans One', sans-serif;
+  margin-right: 30px; }
+
+#tutorsZone {
+  background: #ffcd62;
+  height: 600px;
+  text-align: center; }
+
+#tutorsZone #tutorsTable tr td {
+  text-align: left; }
+
+#tutorsLogoDiv {
+  width: 700px;
+  height: 600px;
+  text-align: center; }
+
+#tutors_logo {
+  height: 400px;
+  width: 400px;
+  padding-top: 100px;
+  padding-bottom: auto; }
+
+#tutorsTitle {
+  font-size: 60px;
+  color: #fcf9f4;
+  padding-bottom: 50px;
+  padding-left: 130px;
+  font-family: 'Julius Sans One', sans-serif; }
+
+#tutorsDesc {
+  font-size: 30px;
+  color: #fcf9f4;
+  padding-bottom: 50px;
+  padding-left: 130px;
+  font-family: 'Dosis', sans-serif; }
+
+#tutorsBtnDiv {
+  padding-left: 130px; }
+
+#tutorsBtn {
+  width: 300px;
+  height: 80px;
+  font-size: 32px;
+  color: #fcf9f4;
+  border: None;
+  border-radius: 10px;
+  background-color: #eabc5b;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 400; }
+
+#partnersZone {
+  background: #80a8cc;
+  height: 600px;
+  text-align: center; }
+
+#partnersZone #partnersTable tr td {
+  text-align: left; }
+
+#partnersLogoDiv {
+  width: 700px;
+  height: 600px;
+  text-align: center; }
+
+#partners_logo {
+  height: 400px;
+  width: 400px;
+  padding-top: 100px;
+  padding-bottom: auto; }
+
+#partnersTitle {
+  font-size: 60px;
+  color: #fcf9f4;
+  padding-bottom: 50px;
+  font-family: 'Julius Sans One', sans-serif; }
+
+#partnersDesc {
+  font-size: 30px;
+  color: #fcf9f4;
+  padding-bottom: 50px;
+  font-family: 'Dosis', sans-serif; }
+
+#partnersBtnDiv {
+  padding-top: 50px; }
+
+#partnersBtn {
+  width: 300px;
+  height: 80px;
+  font-size: 32px;
+  color: #fcf9f4;
+  border: None;
+  border-radius: 10px;
+  background-color: #6d91b1;
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif; }
+
+#progressZone {
+  background: #fcf9f4;
+  height: 800px;
+  text-align: center;
+  padding-left: 150px;
+  padding-right: 150px; }
+
+#progressTitle {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  font-size: 60px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 400;
+  color: #4d4e4f; }
+
+#progressTable {
+  width: 100%;
+  height: 500px; }
+
+.tableColumnBorderDiv {
+  width: 300px;
+  border: 2px solid #e7e5da;
+  height: 380px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Open Sans Condensed', sans-serif; }
+
+.progressSmallFontSize {
+  font-size: 30px; }
+
+.progressBigFontSize {
+  font-size: 60px; }
+
+#firstColumnFont {
+  color: #91d0b1; }
+
+#secondColumnFont {
+  color: #ffcd62; }
+
+#thirdColumnFont {
+  color: #80a8cc; }
+
+footer {
+  background: #4d4e59;
+  color: white;
+  text-align: center;
+  height: 60px;
+  font-size: 24px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 10px; }
